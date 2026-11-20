@@ -1,0 +1,5 @@
+streamlit>=1.50,<2
+numpy>=1.26.4,<3
+pandas>=2.2,<3
+yfinance>=0.2.65,<2
+exchange-calendars>=4.12,<5
